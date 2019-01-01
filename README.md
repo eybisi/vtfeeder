@@ -1,7 +1,7 @@
 # vtfeeder
 
 Telegram Bot to download virustotal feed files each hour.
-This bot downloads file feed eac hour(https://www.virustotal.com/vtapi/v2/file/feed) and all files included in feed file. 
+Gets feed from (https://www.virustotal.com/vtapi/v2/file/feed) and downloads all files included in feed file. 
 
 ## Setup
 
